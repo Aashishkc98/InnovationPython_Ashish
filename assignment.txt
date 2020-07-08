@@ -1,0 +1,42 @@
+1.	What are the differences between Git and GitHub?
+
+Git is a version control software which you need to install on your local system in order to use it. Git also is known as distributed version control system which means using Git you can push and pull yours as well as others changes to other people’s machines. Now, using Git you can work on the same copy as your team member. But the copy on which you will be working, won’t reflect any of the changes in the main directory unless and until you pull your collaborator’s changes and push back your own changes.
+
+Git is a version control system which tracks the changes when working with computer codes while GitHub is a Web-based Git version control repository hosting service. It provides all of the distributed version control and source code management. So basically, it is a place to store your identical working directories or repositories. It literally is a hub for the Git repositories which you can use, simply by creating a free account on the GitHub. 
+
+2.	What is Git Workflow?
+
+Git workflow is critical for coding projects that involve group collaboration. If you follow certain procedures, you can always keep a clean working copy of your project through identifying code issues before they become incorporated into the larger project.
+This simple step by step guide to a Git workflow aims to help give an introductory overview for structuring a group project.
+
+Step 1: Set up a GitHub Organization
+Step 2: Fork Organization Repository to Your Personal GitHub
+Step 3: Clone the Repository to Your Local Machine
+Step 4: Create a Branch for your Working Files
+Step 5: Set Remote Repository to the GitHub Organization
+Step 6: Get Coding!
+Step 7: Pull the Most Recent Files from the Organization Repo
+Step 8: Merge the Master Branch into the Feature Branch
+Step 9: Push Your Code to your GitHub Repo
+Step 10: Make a Pull Request to the Organization Repo
+
+3.	How many types of version control systems are there?
+
+The various types of the version control systems are:
+1. Local Version Control System:
+ Local version control system maintains track of files within the local system.
+2. Centralized Version Control System: 
+In this approach, all the changes in the files are tracked under the centralized server
+3. Distributed Version Control System: 
+Distributed version control systems come into picture to overcome the drawback of centralized version control system. The clients completely clone the repository including its full history. If any server dies, any of the client repositories can be copied on to the server which help restore the server.
+
+
+
+
+
+
+
+
+
+
+
